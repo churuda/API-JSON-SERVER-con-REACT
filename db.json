@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Perez",
+      "empresa": "etapa",
+      "email": "correo@correo.com",
+      "telefono": "0135689",
+      "notas": "",
+      "id": 6
+    },
+    {
+      "nombre": "Paola",
+      "empresa": "tango",
+      "email": "paogaby88@gmail.com",
+      "telefono": "0995981400",
+      "notas": "13",
+      "id": 7
+    }
+  ]
+}
